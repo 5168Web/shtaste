@@ -6,7 +6,7 @@
  * and other user handling.
  *
  * @package WordPress
- */
+ */ sam xiu gai le nei rong 2
 
 /** Make sure that the WordPress bootstrap has run before continuing. */
 require( dirname(__FILE__) . '/wp-load.php' );
